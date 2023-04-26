@@ -71,6 +71,8 @@ print(best_score_key("70656e61206465207068656f6e6978"))
 print(best_score_key("7361627567756569726f"))
 print(best_score_key("47656e65736973"))
 
+print("hello world")
+
 print(testing_keys("7361627567756569726f"))
 print(testing_keys("63617276616c686f"))
 
